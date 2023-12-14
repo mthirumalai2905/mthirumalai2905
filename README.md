@@ -2,8 +2,6 @@
 
 ### A Passionate Full Stack Developer from Mumbai, India
 
-![Working From Home GIF](https://tenor.com/view/working-from-home-computer-homework-gif-13271998)
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mthirumalai2905&label=Profile%20views&color=0e75b6&style=flat" alt="mthirumalai2905" />
 </p>
