@@ -1,8 +1,5 @@
-<img
-  src="https://imgs.search.brave.com/c6mOQXOq-Eo0j7tvFgRWYwW7cQ_mWkpxNTdLKA8JWbU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWUt/YmFubmVyLWdpZi1m/aWxlLTg4N2tiLTQw/M3piNjFwd24wcjhm/dDMuZ2lm.gif"
-  alt="MasterHead"
-  style={{ height: "100px" }}
-/>
+ ![MasterHead]( height:"100"https://imgs.search.brave.com/c6mOQXOq-Eo0j7tvFgRWYwW7cQ_mWkpxNTdLKA8JWbU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWUt/YmFubmVyLWdpZi1m/aWxlLTg4N2tiLTQw/M3piNjFwd24wcjhm/dDMuZ2lm.gif)
+
 
 
 
