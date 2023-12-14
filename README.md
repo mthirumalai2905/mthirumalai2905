@@ -2,6 +2,8 @@
 
 ### A Passionate Full Stack Developer from Mumbai, India
 
+<img src=https://pin.it/nv5xsWg>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mthirumalai2905&label=Profile%20views&color=0e75b6&style=flat" alt="mthirumalai2905" />
 </p>
