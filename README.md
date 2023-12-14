@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Thirumalai</h1>
-<h3 align="center">A Passionate Full Stack Developer from Mumbai,India</h3>
-<div class="tenor-gif-embed" data-postid="13271998" data-share-method="host" data-aspect-ratio="1.33663" data-width="100%"><a href="https://tenor.com/view/working-from-home-computer-homework-gif-13271998">Working From GIF</a>from <a href="https://tenor.com/search/working-gifs">Working GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+# Hi 👋, I'm Thirumalai
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mthirumalai2905&label=Profile%20views&color=0e75b6&style=flat" alt="mthirumalai2905" /> </p>
+### A Passionate Full Stack Developer from Mumbai, India
+
+![Working From Home GIF](https://tenor.com/view/working-from-home-computer-homework-gif-13271998)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mthirumalai2905&label=Profile%20views&color=0e75b6&style=flat" alt="mthirumalai2905" />
+</p>
+
 
 - 🌱 I’m currently learning **MERN STACK**
 
