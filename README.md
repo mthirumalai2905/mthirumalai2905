@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://mthirumalai2905.github.io/spline-portfolio/](https://mthirumalai2905.github.io/spline-portfolio/)
+- 👨‍💻 All of my projects are available at https://final-portfolio-xrsz.vercel.app/
 
 - 📫 How to reach me **mthirumalai2905@gmail.com**
 
