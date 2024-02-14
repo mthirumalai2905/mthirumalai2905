@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently Working **NOTEBOOK** Open-Source Website Builder
 
 - 👨‍💻 All of my projects are available at https://final-portfolio-xrsz.vercel.app/
 
