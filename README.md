@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at https://final-portfolio-xrsz.vercel.app/
 
--🫛 My dodolio at 
+- 🫛 My dodolio available at https://dodolio-eta.vercel.app/
 
 - 📫 How to reach me **mthirumalai2905@gmail.com**
 
