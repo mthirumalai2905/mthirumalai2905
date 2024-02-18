@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at https://final-portfolio-xrsz.vercel.app/
 
+-🫛 My dodolio at 
+
 - 📫 How to reach me **mthirumalai2905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
