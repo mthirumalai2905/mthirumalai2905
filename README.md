@@ -50,13 +50,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 <h3 align="left">Deveops</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
-  </a>
-</p>
-<h3 align="left">Hosting</h3>
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,heroku,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,netlify,vercel," />
   </a>
 </p>
 <h3 align="left">Tools</h3>
