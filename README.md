@@ -23,6 +23,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 <p align="left">
   <a href = "mailto:mthirumalai2905@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
   <a href = "https://www.linkedin.com/in/mthirumalai2905/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"/></a>
+   <a href = "https://leetcode.com/mthirumalai2905/"><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank"/></a>
 </p>
 
 ## Languages & Tools
