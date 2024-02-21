@@ -1,6 +1,6 @@
 ## Welcome to my Github!
 
-<p>Hello! I'm Thirumalai, a passionate software engineer.
+<p>Hello! I'm Thirumalai, a passionate software developer.
 "Crafting Innovation: Transforming Ideas into Reality with Efficiency!
 
 Software design and development isn't just a passion—it's a calling. I thrive on the thrill of turning concepts into tangible solutions that resonate with purpose. What drives me? Collaborating with diverse minds, pooling our talents to breathe life into a shared vision.
