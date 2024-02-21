@@ -13,7 +13,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 
 - <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, Java, Python, PHP, SQL
 - <b>Web Frontend</b> : React.js, Next.js
-- <b>Backend</b> : Node.js / Express.js
+- <b>Backend</b> : Node.js / Express.js, PHP
 - <b>Database</b> : MySQL, MongoDB, FireBase
 - <b>Deveops</b> : Docker, Kubernetes, AWS
 - <b>UI/UX Design</b> : Figma,
