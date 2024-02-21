@@ -1,8 +1,12 @@
 ## Welcome to my Github!
 
 <p>Hello! I'm Thirumalai, a passionate software engineer.
+"Crafting Innovation: Transforming Ideas into Reality with Efficiency!
 
-Software design and development have always been my biggest passion, because of its ability to transform idea into reality with the essence of efficiency! I particularly find it purposeful therefore enjoyable when learning and building with different brains as a team towards a shared vision. I am eager to use my technological skills and creativity to provide service/product to fill in the gaps in this society and make this world a better place.</p>
+Software design and development isn't just a passion—it's a calling. I thrive on the thrill of turning concepts into tangible solutions that resonate with purpose. What drives me? Collaborating with diverse minds, pooling our talents to breathe life into a shared vision.
+
+I'm fueled by the opportunity to harness technology and creativity, bridging gaps in society to create meaningful impact. Let's shape a brighter future, one line of code at a time."
+</p>
 
 
 ## Skills
