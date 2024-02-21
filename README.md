@@ -53,6 +53,12 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,netlify,vercel," />
   </a>
 </p>
+<h3 align="left">No-Code</h3>
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,framer" />
+  </a>
+</p>
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
