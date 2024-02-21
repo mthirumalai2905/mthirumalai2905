@@ -38,12 +38,12 @@ Software design and development have always been my biggest passion, because of 
 <h3 align="left">DataBase</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,graphql,mongodb," />
+    <img src="https://skillicons.dev/icons?i=firebase,graphql,mongodb,mysql" />
   </a>
 </p>
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,figma,github,git,postman,visualstudio,vscode," />
+    <img src="https://skillicons.dev/icons?i=docker,figma,github,git,postman,insomnia,visualstudio,vscode," />
   </a>
 </p>
