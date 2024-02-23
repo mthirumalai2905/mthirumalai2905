@@ -11,8 +11,8 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 
 ## Skills
 
-- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, Java, Python, PHP, SQL
-- <b>Web Frontend</b> : React.js, Next.js
+- <b>Languages</b> : HTML, CSS, JavaScript,  Java, Python, PHP, SQL
+- <b>Web Frontend</b> : React.js
 - <b>Backend</b> : Node.js / Express.js, PHP, Microservices, Kafka
 - <b>Database</b> : MySQL, MongoDB, FireBase
 - <b>UI/UX Design</b> : Figma,
