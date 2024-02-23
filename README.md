@@ -37,7 +37,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,npm,java,php,python, kafaka" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,npm,java,php,python, kafka" />
   </a>
 </p>
 <h3 align="left">DataBase</h3>
