@@ -24,7 +24,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
   <a href = "https://www.linkedin.com/in/mthirumalai2905/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"/></a>
    <a href = "https://leetcode.com/mthirumalai2905/"><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank"/></a>
    <a href = "https://tthirruu.hashnode.dev/"><img src="https://img.shields.io/badge/-hashnode-%23333?style=for-the-badge&logo=hashnode&logoColor=darkblue" target="_blank"/></a>
-   <a href = "https://final-portfolio-xrsz.vercel.app/"><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank"/></a>
+   <a href = "https://final-portfolio-xrsz.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=orange" target="_blank"/></a>
 </p>
 
 ## Languages & Tools
