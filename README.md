@@ -14,7 +14,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 - <b>Languages</b> : ```HTML```, ```CSS```, `JavaScript`, `TypeScript`,  `Java`, `PHP`, `SQL`
 - <b>Web Frontend</b> : `React`
 - <b>Backend</b> : `Node.js`, `Express.js`, `PHP`, `Microservices`,
-- <b>Database</b> : `MySQL`, `MongoDB`, `FireBase`
+- <b>Database & API</b> : `MySQL`, `MongoDB`, `FireBase`, `REST`, `GraphQL`, `SocketIO`
 - <b>UI/UX Design</b> : `Figma`,`Framer`
 
 ## Connect with me
