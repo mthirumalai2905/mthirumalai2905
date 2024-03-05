@@ -9,7 +9,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 </p>
 
 
-## Skills
+## Tech Stack 📦
 
 - <b>Languages</b> : ```HTML```, ```CSS```, `JavaScript`, `TypeScript`,  `Java`, `SQL`
 - <b>Web Frontend</b> : `React`, `Next`
@@ -17,7 +17,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 - <b>Database & API</b> : `MySQL`, `MongoDB`, `FireBase`, `REST`, `GraphQL`, `SocketIO`, `Appwrite`
 - <b>UI/UX Design</b> : `Figma`,`Framer`
 
-## Connect with me
+## Connect with me 🔗
 
 <p align="left">
   <a href = "mailto:mthirumalai2905@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
