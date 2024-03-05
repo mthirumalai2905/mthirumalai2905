@@ -11,9 +11,9 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 
 ## Skills
 
-- <b>Languages</b> : ```HTML```, ```CSS```, `JavaScript`, `TypeScript`,  `Java`, `PHP`, `SQL`
+- <b>Languages</b> : ```HTML```, ```CSS```, `JavaScript`, `TypeScript`,  `Java`, `SQL`
 - <b>Web Frontend</b> : `React`, `Next`
-- <b>Backend</b> : `Node.js`, `Express.js`, `PHP`, `Microservices`,
+- <b>Backend</b> : `Node.js`, `Express.js`,
 - <b>Database & API</b> : `MySQL`, `MongoDB`, `FireBase`, `REST`, `GraphQL`, `SocketIO`, `Appwrite`
 - <b>UI/UX Design</b> : `Figma`,`Framer`
 
