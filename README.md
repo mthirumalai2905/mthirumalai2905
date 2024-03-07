@@ -16,8 +16,6 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 - <b>Backend</b> : `Node.js`, `Express.js`,
 - <b>Database</b> : `MySQL`, `MongoDB`, `FireBase`
 - <b>UI/UX Design</b> : `Figma`,`Framer`
-- <b>Familiar</b> : `Electron.js`,`Chart.js`,`C/C++`,`Python`,`PHP`,`Docker`,`Kali-Linux`,
-                  <br/> `GraphQL`, `SAAS`, `SocketIO`
 
 ## Connect with me 🔗
 
