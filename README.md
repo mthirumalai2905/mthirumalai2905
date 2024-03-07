@@ -11,8 +11,8 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 
 ## Tech Stack 📦
 
-- <b>Languages</b> : ```HTML```, ```CSS```, `JavaScript`, `Java`, `SQL`
-- <b>Web Frontend</b> : `React`
+- <b>Languages</b> : ```HTML```, ```CSS```, `JavaScript`,`TypeScript`, `Java`, `SQL`,
+- <b>Web Frontend</b> : `React`, `Next`
 - <b>Backend</b> : `Node.js`, `Express.js`,
 - <b>Database</b> : `MySQL`, `MongoDB`, `FireBase`
 - <b>UI/UX Design</b> : `Figma`,`Framer`
