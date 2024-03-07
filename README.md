@@ -12,11 +12,12 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 ## Tech Stack 📦
 
 - <b>Languages</b> : ```HTML```, ```CSS```, `JavaScript`,`TypeScript`, `Java`, `SQL`,
-- <b>Web Frontend</b> : `React`, `Next`
+- <b>Web Frontend</b> : `React`, `Next`, `TailWindCSS`
 - <b>Backend</b> : `Node.js`, `Express.js`,
 - <b>Database</b> : `MySQL`, `MongoDB`, `FireBase`
 - <b>UI/UX Design</b> : `Figma`,`Framer`
-- <b>Familiar</b> : `TailwindCSS`,`Electron.js`,`Chart.js`,`C/C++`,`Python`,`PHP`,`Docker`,`Kali-Linux`,
+- <b>Familiar</b> : `Electron.js`,`Chart.js`,`C/C++`,`Python`,`PHP`,`Docker`,`Kali-Linux`,
+                  : `GraphQL`, `SAAS`
 
 ## Connect with me 🔗
 
