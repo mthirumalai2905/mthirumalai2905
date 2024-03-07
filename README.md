@@ -17,7 +17,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 - <b>Database</b> : `MySQL`, `MongoDB`, `FireBase`
 - <b>UI/UX Design</b> : `Figma`,`Framer`
 - <b>Familiar</b> : `Electron.js`,`Chart.js`,`C/C++`,`Python`,`PHP`,`Docker`,`Kali-Linux`,
-                  : `GraphQL`, `SAAS`
+                  <br/> `GraphQL`, `SAAS`
 
 ## Connect with me 🔗
 
