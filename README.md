@@ -27,29 +27,6 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
    <a href = "https://final-portfolio-xrsz.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=orange" target="_blank"/></a>
 </p>
 
-## Languages & Tools
+## Projects
 
-<h3 align="left">Front-end</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,materialui,react,next,vite" />
-  </a>
-</p>
-<h3 align="left">Backend</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,npm,java,php,python, kafka" />
-  </a>
-</p>
-<h3 align="left">DataBase</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
-  </a>
-</p>
-<h3 align="left">Tools</h3>
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,github,git,gitlab,postman,linux,kali,visualstudio,vscode,notion,discord," />
-  </a>
-</p>
+
