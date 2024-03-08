@@ -1,4 +1,4 @@
-## Welcome to my Github!
+## Welcome to my Github! 💻
 
 <p>Hello! I'm Thirumalai, a passionate software developer.
 "Crafting Innovation: Transforming Ideas into Reality with Efficiency!
@@ -27,6 +27,6 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
    <a href = "https://final-portfolio-xrsz.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=orange" target="_blank"/></a>
 </p>
 
-## Projects
+
 
 
