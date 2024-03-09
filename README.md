@@ -15,7 +15,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 - <b>Web Frontend</b> : `React`, `Next`, `TailWindCSS`
 - <b>Backend</b> : `Node.js`, `Express.js`,`Microservices`
 - <b>Database</b> : `MySQL`, `MongoDB`, `FireBase`
-- <b>API</b>: `REST`, `GraphQL`
+- <b>API</b>: `REST`, `GraphQL`, `Web-Sockets`
 - <b>UI/UX Design</b> : `Figma`,`Framer`
 
 ## Connect with me 🔗
