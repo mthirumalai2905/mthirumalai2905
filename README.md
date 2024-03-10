@@ -9,15 +9,6 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 </p>
 
 
-## Tech Stack 📦
-
-- <b>Languages</b> : ```HTML```, ```CSS```, `JavaScript`,`TypeScript`, `Java`, `SQL`,
-- <b>Web Frontend</b> : `React`, `Next`, `TailWindCSS`
-- <b>Backend</b> : `Node.js`, `Express.js`,`Microservices`
-- <b>Database</b> : `MySQL`, `MongoDB`, `FireBase`
-- <b>API</b>: `REST`, `GraphQL`, `Web-Sockets`
-- <b>UI/UX Design</b> : `Figma`,`Framer`
-
 ## Connect with me 🔗
 
 <p align="left">
@@ -26,6 +17,47 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
    <a href = "https://leetcode.com/mthirumalai2905/"><img src="https://img.shields.io/badge/-Leetcode-%23333?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank"/></a>
    <a href = "https://tthirruu.hashnode.dev/"><img src="https://img.shields.io/badge/-hashnode-%23333?style=for-the-badge&logo=hashnode&logoColor=darkblue" target="_blank"/></a>
    <a href = "https://final-portfolio-xrsz.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=orange" target="_blank"/></a>
+</p>
+
+🛠️ **Stuffs I use (Languages,Tools and Others):**
+<br/><br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript)
+![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
+![Lua](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=5df58b)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Vue](https://img.shields.io/badge/-Vuejs-black?style=for-the-badge&logo=vue)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=1572B6)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=for-the-badge&logo=nestjs&logoColor=1572B6)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/-Gnubash-black?style=for-the-badge&logo=gnubash)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=Jenkins&logoColor=D24939)
+![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
+![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
+![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Trello&logoColor=0079BF)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
+![ElasticSearch](https://img.shields.io/badge/-Elasticsearch-black?style=for-the-badge&logo=elasticsearch)
+![GraphQl](https://img.shields.io/badge/-Graphql-black?style=for-the-badge&logo=graphql)
+![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=Jira&logoColor=0052CC)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql&logoColor=2496ED)
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubiin&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiin&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+<p>
+  
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubiin&theme=dracula" alt="rubiin"/>
+ 
 </p>
 
 
