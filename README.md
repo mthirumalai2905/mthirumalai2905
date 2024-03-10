@@ -19,7 +19,8 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
    <a href = "https://final-portfolio-xrsz.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=orange" target="_blank"/></a>
 </p>
 
-🛠️ **Stuffs I use (Languages,Tools and Others):**
+## Tech Stack
+
 <br/><br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript)
@@ -50,13 +51,13 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubiin&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiin&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mthirualai2905&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthirumalai2905&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 <p>
   
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubiin&theme=dracula" alt="rubiin"/>
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mthirumalai2905&theme=dracula" alt="mthirumalai2905"/>
  
 </p>
 
