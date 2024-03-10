@@ -1,9 +1,10 @@
 💪 **Myself:**
 - 👨🏽‍💻 I’m currently working on MERN.
-- 🌱 I’m currently learning RUST and Deveops;;
+- 🌱 I’m currently learning RUST and Deveops;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mthirumalai2905@gmail.com;
+<br/>
 
 🍌 **My GitHub Stats:**
 
@@ -14,6 +15,7 @@
    <a href = "https://tthirruu.hashnode.dev/"><img src="https://img.shields.io/badge/-hashnode-%23333?style=for-the-badge&logo=hashnode&logoColor=darkblue" target="_blank"/></a>
    <a href = "https://final-portfolio-xrsz.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=orange" target="_blank"/></a>
 </p>
+<br/>
 
 📦 **My Tech Stack:**
 
