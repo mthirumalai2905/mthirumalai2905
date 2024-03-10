@@ -6,7 +6,7 @@
 - 📫 How to reach me: mthirumalai2905@gmail.com;
 <br/>
 
-🍌 **My GitHub Stats:**
+🍌 **My Profiles**
 
 <p align="left">
   <a href = "mailto:mthirumalai2905@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
