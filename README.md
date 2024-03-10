@@ -1,6 +1,6 @@
 💪 **Myself:**
 - 👨🏽‍💻 I’m currently working on MERN.
-- 🌱 I’m currently learning RUST and Deveops;
+- 🌱 Switching Over Rust soon...
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mthirumalai2905@gmail.com;
