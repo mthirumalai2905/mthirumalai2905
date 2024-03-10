@@ -27,7 +27,6 @@
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=5df58b)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![NestJS](https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=nestjs&logoColor=1572B6)](https://nestjs.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql)](https://graphql.org/)
@@ -41,9 +40,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
-[![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion)](https://www.notion.so/)
-[![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=gitlab)](https://about.gitlab.com/)
-[![Discord](https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord)](https://discord.com/)
 
 
 📈 **My GitHub Stats:**
