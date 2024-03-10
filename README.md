@@ -1,15 +1,11 @@
-## Welcome to my Github! 💻
+💪 **Myself:**
+- 👨🏽‍💻 I’m currently working on MERN.
+- 🌱 I’m currently learning RUST and Deveops;;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: mthirumalai2905@gmail.com;
 
-<p>Hello! I'm Thirumalai, a passionate software developer.
-"Crafting Innovation: Transforming Ideas into Reality with Efficiency!
-
-Software design and development isn't just a passion—it's a calling. I thrive on the thrill of turning concepts into tangible solutions that resonate with purpose. What drives me? Collaborating with diverse minds, pooling our talents to breathe life into a shared vision.
-
-I'm fueled by the opportunity to harness technology and creativity, bridging gaps in society to create meaningful impact. Let's shape a brighter future, one line of code at a time."
-</p>
-
-
-## Connect with me 🔗
+🍌 **My GitHub Stats:**
 
 <p align="left">
   <a href = "mailto:mthirumalai2905@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
@@ -19,7 +15,7 @@ I'm fueled by the opportunity to harness technology and creativity, bridging gap
    <a href = "https://final-portfolio-xrsz.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=orange" target="_blank"/></a>
 </p>
 
-## Tech Stack
+📦 **My Tech Stack:**
 
 [![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
