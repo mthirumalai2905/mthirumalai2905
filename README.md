@@ -40,6 +40,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![FireBase](https://img.shields.io/badge/-firebase-black?style=for-the-badge&logo=firebase&logoColor=2496ED)](https://www.firebase.com/)
 
 
 📈 **My GitHub Stats:**
