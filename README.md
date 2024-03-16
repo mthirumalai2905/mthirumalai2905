@@ -38,7 +38,7 @@
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="15%">
+</td><td valign="top" width="55%">
 
 
 
@@ -57,7 +57,7 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="15%">
+</td><td valign="top" width="55%">
 
 
 ### DevOps  
