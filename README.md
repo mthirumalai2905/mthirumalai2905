@@ -20,8 +20,11 @@
 
 ## My Tech Stack
 Frontend: `HTML`,`CSS`,`JS`,`TS`,`REACT`,`NEXT`
+
 Backend: `JAVA`,`NODE.js`,`EXPRESS.js`,`SQL`,`GO`
+
 Deveops: `GIT`,`DOCKER`,`KUBERNETES`
+
 Databases: `MYSQL`,`MONGODB`,`FIREBASE`
 
 
