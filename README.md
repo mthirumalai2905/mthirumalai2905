@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/mthirumalai2905/followers/:user)
+![GitHub followers](https://img.shields.io/github/mthirumalai2905/followers/:user)
 
 
 
