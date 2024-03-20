@@ -72,5 +72,5 @@ __Live demo__ https://kanban-task-eta.vercel.app/
 
 
 
-## Connect
+
 
