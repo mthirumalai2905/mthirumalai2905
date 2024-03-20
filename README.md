@@ -1,4 +1,4 @@
-<iframe src="[https://leetcode.com](https://leetcode.com/mthirumalai2905/)" width="600" height="400"></iframe>
+
 
 
 ### <div align="center">I'm Thiru, a full-time full-stack freelance developer 👨‍💻 </div>  
