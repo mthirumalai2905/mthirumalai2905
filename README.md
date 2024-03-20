@@ -3,50 +3,73 @@
 
 
 
-### <div align="center">I'm Thiru, a full-time full-stack freelance developer 👨‍💻 </div>  
-  
 
-- 🔭 I’m currently working on MERN   
-  
-
-- 🌱 I’m currently learning Deveops  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: There is no fun fact  
-  
-
-<br/>  
-
-
-## My Tech Stack
-frontend: `html`, `css`, `js`, `ts`, `react`, `next`
-
-backend: `java`, `node.js`, `express.js`, `sql`, `go`
-
-devops: `git`, `docker`, `kubernetes`
-
-databases: `mysql`, `mongodb`, `firebase`
+# My Tech Stack 📦
+#### Frontend: `HTML`, `CSS`, `JS`, `TS`, `React`, `Next`
+#### Backend: `Java`, `node.js`, `express.js`, `PHP`, `GO`, `Kafka`,`SQL`
+#### Databases: `mysql`, `mongodb` 
 
 
 
 
 
+# Things Built By Me 📽️
+**Gemini AI**
+
+![Screenshot (226)](https://github.com/mthirumalai2905/Sketching-app-using-reactjs-roughjs/assets/98790479/309f0926-1875-4fdd-af9e-e0dec31888ab)
+
+**Tech Stack** 
+HTML, CSS, Javascript, React.js, contextAPI
+
+__Live demo__ https://luffy-ochre.vercel.app/
+
+**Gemini AI**
+
+![Screenshot (90)](https://github.com/mthirumalai2905/mthirumalai2905/assets/98790479/96290764-0c6c-410d-ba32-c64025042de1)
+
+**Tech Stack** 
+mongodb, express, react, node
+
+__Live demo__ https://github.com/mthirumalai2905/mern-blog-app
+
+
+
+**Typify**
+
+![Screenshot (227)](https://github.com/mthirumalai2905/Sketching-app-using-reactjs-roughjs/assets/98790479/90fff266-5b59-411b-8936-ecdaeaad4c2a)
+**Tech Stack** 
+Typescript, React.js
+
+__Live demo__ https://typify-beta.vercel.app/
+
+**IMDB Clone**
+
+![Screenshot (228)](https://github.com/mthirumalai2905/Sketching-app-using-reactjs-roughjs/assets/98790479/15c83d39-b53d-42a0-a85d-2ed84a66e053)
+**Tech Stack** 
+Javascript, React.js, Firebase, TMDB API
+
+__Live demo__ https://imdb-clone-react-app-gamma.vercel.app/
+
+**Sketchy**
+
+![Screenshot (229)](https://github.com/mthirumalai2905/Sketching-app-using-reactjs-roughjs/assets/98790479/c26de452-5675-4174-ad85-21eb25f018c5)
+**Tech Stack** 
+React.js, Rough.js
+
+__Live demo__ https://sketch-green.vercel.app/
+
+**Kanban Task**
+
+![Screenshot (212)](https://github.com/mthirumalai2905/mthirumalai2905/assets/98790479/b72e4d65-3817-4352-8610-0eda555732a7)
+**Tech Stack** 
+Typescript, React.tsx, TailwindCSS, Chakra UI
+
+__Live demo__ https://kanban-task-eta.vercel.app/
 
 
 
 
 
-📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mthirumalai2905&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthirumalai2905&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
-   
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mthirumalai2905&theme=dracula" alt="mthirumalai2905"/>
-</p>
-
-
+## Connect
 
