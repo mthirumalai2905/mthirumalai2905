@@ -5,7 +5,7 @@
 
 
 # My Tech Stack 📦
-#### Frontend: `HTML`, `CSS`, `JS`, `TS`, `React`, `Next`
+#### Frontend: `html`, `css`, `js`, `ts`, `React`, `Next`
 #### Backend: `Java`, `node.js`, `express.js`, `PHP`, `GO`, `Kafka`,`SQL`
 #### Databases: `mysql`, `mongodb` 
 
@@ -61,6 +61,7 @@ __Live demo__ https://sketch-green.vercel.app/
 **Kanban Task**
 
 ![Screenshot (212)](https://github.com/mthirumalai2905/mthirumalai2905/assets/98790479/b72e4d65-3817-4352-8610-0eda555732a7)
+
 **Tech Stack** 
 Typescript, React.tsx, TailwindCSS, Chakra UI
 
