@@ -5,9 +5,10 @@
 
 
 # My Tech Stack 📦
-#### Frontend: `html`, `css`, `js`, `ts`, `React`, `Next`
-#### Backend: `Java`, `node.js`, `express.js`, `PHP`, `GO`, `Kafka`,`SQL`
-#### Databases: `mysql`, `mongodb` 
+Frontend: `html`, `css`, `js`, `ts`, `React`, `Next`
+Backend: `Java`, `node.js`, `express.js`, `PHP`, `GO`, `Kafka`,`SQL`
+Deveops: `Docker`, `Kuberenets`, `Git`,
+Databases: `mysql`, `mongodb` 
 
 
 
