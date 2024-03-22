@@ -5,13 +5,38 @@
 
 
 # My Tech Stack 📦
-Frontend: `html`, `css`, `js`, `ts`, `React`, `Next`
 
-Backend: `Java`, `node.js`, `express.js`, `PHP`, `GO`, `Kafka`,`SQL`
+<h3 align="left">Front-end</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html, css, sass, js, ts, react, next, tailwindcss" />
+  </a>
+</p>
+<h3 align="left">Backend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java, nodejs, expressjs, golang, sql" />
+  </a>
+</p>
+<h3 align="left">DataBase</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  </a>
+</p>
+<h3 align="left">Deveops</h3>
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,git" />
+  </a>
+</p>
+<h3 align="left">Tools</h3>
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,github,gitlab,bitbucket" />
+  </a>
+</p>
 
-Deveops: `Docker`, `Kuberenetes`, `Git`,
-
-Databases: `mysql`, `mongodb` 
 
 
 
