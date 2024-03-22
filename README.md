@@ -72,9 +72,8 @@ Typescript, React.tsx, TailwindCSS, Chakra UI
 __Live demo__ https://kanban-task-eta.vercel.app/
 
 
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthirumalai2905&theme=tokyonight" />
+</div>
 
 
