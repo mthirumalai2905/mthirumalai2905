@@ -9,13 +9,13 @@
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, sass, js, ts, react, next, tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,tailwindcss" />
   </a>
 </p>
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java, nodejs, expressjs, golang, sql" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,golang,sql" />
   </a>
 </p>
 <h3 align="left">DataBase</h3>
