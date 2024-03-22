@@ -9,7 +9,7 @@ Frontend: `html`, `css`, `js`, `ts`, `React`, `Next`
 
 Backend: `Java`, `node.js`, `express.js`, `PHP`, `GO`, `Kafka`,`SQL`
 
-Deveops: `Docker`, `Kuberenets`, `Git`,
+Deveops: `Docker`, `Kuberenetes`, `Git`,
 
 Databases: `mysql`, `mongodb` 
 
