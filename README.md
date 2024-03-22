@@ -15,7 +15,7 @@
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,golang,sql,socket,graphql" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,expressjs,golang,sql,socketio,graphql" />
   </a>
 </p>
 <h3 align="left">DataBase</h3>
