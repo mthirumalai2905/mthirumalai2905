@@ -57,4 +57,9 @@ __Live demo__ https://kanban-task-eta.vercel.app/
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthirumalai2905&theme=tokyonight" />
 </div>
 
-
+<h3 align="left">Tech-Stack 📦</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwindcss,bootstrap,materialui,java,php,nodejs,expressjs,go,linux,docker,git,github,disccord,notion," />
+  </a>
+</p>
