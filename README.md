@@ -1,4 +1,9 @@
 # Things Built By Me 📽️
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,java,rust,sql,mongodb,express,node,react" />
+  </a>
+</p>
 **Gemini AI**
 
 ![Screenshot (226)](https://github.com/mthirumalai2905/Sketching-app-using-reactjs-roughjs/assets/98790479/309f0926-1875-4fdd-af9e-e0dec31888ab)
