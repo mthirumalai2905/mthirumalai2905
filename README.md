@@ -1,7 +1,7 @@
 # Things Built By Me 📽️
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,rust,go,mysql,mongodb,express,nodejs,react,linux,docker,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,rust,go,mysql,mongodb,express,nodejs,react,linux,docker,git,html,css" />
   </a>
 </p>
 
