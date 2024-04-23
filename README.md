@@ -1,7 +1,7 @@
 # Things Built By Me 📽️
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,java,rust,sql,mongodb,express,node,react" />
+    <img src="https://skillicons.dev/icons?i=javascript,java,rust,mysql,mongodb,express,node,react" />
   </a>
 </p>
 **Gemini AI**
