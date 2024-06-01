@@ -9,7 +9,7 @@
 ![Screenshot (226)](https://github.com/mthirumalai2905/Sketching-app-using-reactjs-roughjs/assets/98790479/309f0926-1875-4fdd-af9e-e0dec31888ab)
 
 **Tech Stack** 
-HTML, CSS, Javascript, React.js, contextAPI
+HTML, CSS, React.js, contextAPI
 
 __Live demo__ https://luffy-ochre.vercel.app/
 
