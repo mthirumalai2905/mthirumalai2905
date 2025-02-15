@@ -1,4 +1,4 @@
-Hi there! <img src="https://imgs.search.brave.com/9A2JdPKx8ACikwaBMv9uRv8H0xEqFEDSKF3tPF95LF4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL2Y0VjJt/cXZ2MHdUOW0vMjAw/LmdpZj9jaWQ9Nzkw/Yjc2MTFyZGEwNGps/Y3R5OTV1MXoxYjJo/Mmt1eDlwYXF0ZnRl/MW02Y3VxZWg4JmVw/PXYxX2dpZnNfc2Vh/cmNoJnJpZD0yMDAu/Z2lmJmN0PWc.gif" width="25"/>
+Hi there! <img src="https://imgs.search.brave.com/9A2JdPKx8ACikwaBMv9uRv8H0xEqFEDSKF3tPF95LF4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL2Y0VjJt/cXZ2MHdUOW0vMjAw/LmdpZj9jaWQ9Nzkw/Yjc2MTFyZGEwNGps/Y3R5OTV1MXoxYjJo/Mmt1eDlwYXF0ZnRl/MW02Y3VxZWg4JmVw/PXYxX2dpZnNfc2Vh/cmNoJnJpZD0yMDAu/Z2lmJmN0PWc.gif" width="35" height="40"/>
 
 I'm Thirumalai, a Software Engineer based in India, dedicated to merging technical expertise with design to create efficient and scalable applications. My passion lies in building software that not only performs well but also delivers seamless user experiences.
 
