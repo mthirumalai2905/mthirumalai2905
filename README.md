@@ -7,7 +7,7 @@ In my spare time, I engage in competitive programming and tackle LeetCode challe
 
 ### My Projects
 
-- **[SystemForge](https://system-blueprint-studio.vercel.app/) - Live Collaborative System Design Playground
+- **[SystemForge](https://system-blueprint-studio.vercel.app/)** - Live Collaborative System Design Playground
 
 ###  Competitive Programming
 
