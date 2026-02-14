@@ -13,7 +13,7 @@ In my spare time, I engage in competitive programming and tackle LeetCode challe
 
 -  **[LeetCode](https://leetcode.com/pabloescobar69/)** – Top 4% Global Contest Ranking  
 -  **[Codeforces](https://codeforces.com/profile/thiru2905)** – Specialist  
--  **[CodeChef](https://www.codechef.com/users/badge)** – 4★ (4 Star) Coder  
+-  **[CodeChef](https://www.codechef.com/users/badge)** – 4★ Coder 
 
 
 
