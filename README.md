@@ -18,6 +18,7 @@ In my spare time, I engage in competitive programming and tackle LeetCode challe
 
 
 ### **Fun Facts:**
+- I had to break my Leetcode streak 1033 guess why ?
 - I prefer low-key tech meetups over flashy displays.
 - I enjoy the company of calm and intelligent tech enthusiasts.
 - One Piece is my all-time favorite anime.
