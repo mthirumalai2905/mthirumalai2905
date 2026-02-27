@@ -10,7 +10,8 @@ In my spare time, I engage in competitive programming and tackle LeetCode challe
 - **[SystemForge](https://system-blueprint-studio.vercel.app/)** - Live Collaborative System Design Playground
 - **[CollabRoom](https://room-sync-snowy.vercel.app/)** - Solve The Problems Actively Together In a Virtual Environment
 - **[Retrolio](https://frontend-os-livid.vercel.app/)** - a fully interactive retro 90s operating system–themed developer portfolio
-- **[Unblockchain](https://unblockchain.vercel.app/)** -  a collaborative note-taking web app where teams can freely dump unstructured thoughts, and AI automatically organizes them into structured documents. 
+- **[Unblockchain](https://unblockchain.vercel.app/)** -  a collaborative note-taking web app where teams can freely dump unstructured thoughts, and AI automatically organizes them into structured documents.
+- **[AWS Compass](https://cloud-architect-compass.vercel.app/)** - a detailed documentation integrated with a chatbot where one can learn about what are the services ? how to use them ? when to use them ? who uses them ?
 
 ###  Competitive Programming
 
