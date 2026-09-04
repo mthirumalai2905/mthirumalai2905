@@ -11,6 +11,7 @@ In my spare time, I work on competitive programming and solve LeetCode problems 
 ### Projects
 
 - [Alyson HR](https://alyson-client.vercel.app/) - AI powered HR platform for recruitment, employee management and HR workflows.
+- [Agent Crew](https://agentcrew-rho.vercel.app/) - AgentCrew is an AI workforce for founders: you give one coordinator agent, Max, a goal and it delegates the work to 37 specialized AI agents 
 - [SystemForge](https://system-blueprint-studio.vercel.app/) - Live collaborative system design playground.
 - [CollabRoom](https://room-sync-snowy.vercel.app/) - Collaborative environment for solving problems together.
 - [Retrolio](https://frontend-os-livid.vercel.app/) - Interactive retro 90s OS themed developer portfolio.
